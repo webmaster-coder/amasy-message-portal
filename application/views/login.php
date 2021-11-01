@@ -1,6 +1,4 @@
-<?php
-    echo "heloo";
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 
