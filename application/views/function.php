@@ -1,0 +1,33 @@
+<?php
+$states  = array (
+'Andhra Pradesh',
+'Arunachal Pradesh',
+'Assam',
+'Bihar',
+'Chhattisgarh',
+'Goa',
+'Gujarat',
+'Haryana',
+'Himachal Pradesh',
+'Jharkhand',
+'Karnataka',
+'Kerala',
+'Madhya Pradesh',
+'Maharashtra',
+'Meghalaya',
+'Mizoram',
+'Nagaland',
+'Odisha',
+'Punjab',
+'Rajasthan',
+'Sikkim',
+'Tamil Nadu',
+'Tripura',
+'Uttarakhand',
+'Uttar Pradesh',
+'West Bengal',
+'Chandigarh',
+'Delhi','Puducherry',
+);
+    
+?>
