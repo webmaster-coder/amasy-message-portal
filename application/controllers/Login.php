@@ -13,7 +13,10 @@ class Login extends CI_Controller {
 	{
 		$this->load->view('login');
 	}
-	
+	public function test()
+	{
+		$this->load->view('test');
+	}
 	public function Login_page()
 	{
 		$ussername=$this->input->post('ussername');
